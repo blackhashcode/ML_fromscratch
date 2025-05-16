@@ -10,7 +10,7 @@ If you plan to start your machine learning journey you can view through these co
 
 For further information contact: tausifmushtaque@gmail.com
 
-We are grateful to Dr. Shafin Rahman sir for guiding us through the machine learning practices and staying upto date with the current trends. 
+We are grateful to Dr. Shafin Rahman sir for guiding us through the machine learning practices and making us stay upto date with the current trends. 
 
 In code collaboration with Munem Shahriar & Dr. Shafin Rahman.
 
